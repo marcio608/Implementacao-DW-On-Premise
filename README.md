@@ -8,7 +8,7 @@
 - ##### Instalação do Oracle SQL Developer na máquina física.
 - ##### Criação de uma fonte dados utilizando o SQL Developer.
 - ##### Criação do modelo lógico.
-- ##### Criação do modelo dimensional.
+- ##### Criação do modelo dimensional (star schema).
 - ##### Criação do modelo físico.
 - ##### Criação da staging area.
 - ##### Carga dos dados na staging area.
